@@ -1,6 +1,6 @@
 # FINN · Investor intelligence
 
-**Prototype:** https://finn-investor-desk-ayushi.ayushithegreat519.chatgpt.site (reviewer access must be enabled)
+**Prototype:** https://finn-investor-desk-ayushi.ayushithegreat519.chatgpt.site
 
 **Repository:** https://github.com/ayushiagxrwal00/finn-investor-agent
 
