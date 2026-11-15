@@ -20,9 +20,9 @@ Dear ENAM Team,
 
 Please find my FINN prototype for the AI Engineer Build Challenge.
 
-Prototype: https://finn-investor-desk-ayushi.ayushithegreat519.chatgpt.site (currently owner-private; enable reviewer access)  
+Prototype: https://finn-investor-desk-ayushi.ayushithegreat519.chatgpt.site 
 GitHub: https://github.com/ayushiagxrwal00/finn-investor-agent  
-AI build history: [ACTUAL CONVERSATION SHARE LINK OR ATTACHED EXPORT]
+AI build history: https://chatgpt.com/share/6af9d87a-5f54-83e8-986a-8108408e802c
 
 I focused on two investor workflows: a prioritized daily brief across an 18-company NSE portfolio, and primary-source research that keeps the evidence close to the conclusion. The brief has configurable date windows, price/volume thresholds and disclosure categories. The research desk supports company-document retrieval and PDF upload, with five dated examples. The Promise Ledger compares Infosys' FY25 guidance changes with actual growth rather than simply repeating management commentary.
 
