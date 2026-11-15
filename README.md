@@ -56,12 +56,4 @@ Live endpoints can block requests or time out. The reviewed examples and dated m
 
 Optional model synthesis has **not** been tested with a real API key. Citation-ID validation checks membership and schema; it cannot prove that a claim follows from its source. Human source review remains essential. Full details and verification status are in `docs/EVALUATION.md`.
 
-## Submission files
-
-- `docs/SUBMISSION.md`: covering email draft and remaining submission steps.
-- `docs/DEMO_SCRIPT.md`: timed walkthrough.
-- `docs/ARCHITECTURE.md`: system design and trade-offs.
-- `docs/EVALUATION.md`: checks, evidence and limitations.
-- `docs/AI_BUILD_HISTORY.md`: factual build log, **not a substitute for the actual AI conversation export/share link** required by the brief.
-
 No credentials or complete third-party company PDFs are bundled. Primary documents remain linked at their original publishers. Data snapshots and research paraphrases are clearly dated.
